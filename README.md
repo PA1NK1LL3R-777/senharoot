@@ -9,5 +9,5 @@ sudo -i
 Execute o script rapidamente
 
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/PA1NK1LL3R-777/senharoot/main/senharoot.sh?token=GHSAT0AAAAAABYLMIOAWTZXLSPHEVAHIUJ2Y3BD4AQ)
+bash <(wget -qO- https://raw.githubusercontent.com/PA1NK1LL3R-777/senharoot/main/senharoot.sh)
 ```
